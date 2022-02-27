@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+テスト変更
+=======
 testtuika
+>>>>>>> a250b114dcc74f2c0b478bc733dcddccb8197a3d
