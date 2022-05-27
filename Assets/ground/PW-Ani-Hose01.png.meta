@@ -1,0 +1,2436 @@
+fileFormatVersion: 2
+guid: ff3f002c0f20eb94796f3abb7bb0d227
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6575529026930349039
+    second: PW-Ani-Hose01_0
+  - first:
+      213: 1869712730614686433
+    second: PW-Ani-Hose01_1
+  - first:
+      213: 5408979909356666393
+    second: PW-Ani-Hose01_2
+  - first:
+      213: 8972201441333031504
+    second: PW-Ani-Hose01_3
+  - first:
+      213: -1335599384234596028
+    second: PW-Ani-Hose01_4
+  - first:
+      213: -5620897835234301033
+    second: PW-Ani-Hose01_5
+  - first:
+      213: -5086896010108119400
+    second: PW-Ani-Hose01_6
+  - first:
+      213: -5973345347356108783
+    second: PW-Ani-Hose01_7
+  - first:
+      213: -5612641997680214411
+    second: PW-Ani-Hose01_8
+  - first:
+      213: -7969705212837644801
+    second: PW-Ani-Hose01_9
+  - first:
+      213: -6192555262084448164
+    second: PW-Ani-Hose01_10
+  - first:
+      213: 4084359630192095198
+    second: PW-Ani-Hose01_11
+  - first:
+      213: 1339059803040194307
+    second: PW-Ani-Hose01_12
+  - first:
+      213: 4120753000123026197
+    second: PW-Ani-Hose01_13
+  - first:
+      213: -5202950516659610792
+    second: PW-Ani-Hose01_14
+  - first:
+      213: 2529430918455793051
+    second: PW-Ani-Hose01_15
+  - first:
+      213: 8236282480169364988
+    second: PW-Ani-Hose01_16
+  - first:
+      213: -3624729504244282612
+    second: PW-Ani-Hose01_17
+  - first:
+      213: 4918034501812717855
+    second: PW-Ani-Hose01_18
+  - first:
+      213: 6052151834001558382
+    second: PW-Ani-Hose01_19
+  - first:
+      213: -2287850321716555055
+    second: PW-Ani-Hose01_20
+  - first:
+      213: -1825110806900124292
+    second: PW-Ani-Hose01_21
+  - first:
+      213: 173148462926968659
+    second: PW-Ani-Hose01_22
+  - first:
+      213: 6123720265006527606
+    second: PW-Ani-Hose01_23
+  - first:
+      213: -5304474885546143058
+    second: PW-Ani-Hose01_24
+  - first:
+      213: -5321620716516397420
+    second: PW-Ani-Hose01_25
+  - first:
+      213: -2013646828118357354
+    second: PW-Ani-Hose01_26
+  - first:
+      213: 421924147812425230
+    second: PW-Ani-Hose01_27
+  - first:
+      213: -7960205770183235750
+    second: PW-Ani-Hose01_28
+  - first:
+      213: -7899797888124289875
+    second: PW-Ani-Hose01_29
+  - first:
+      213: -2227793779696273833
+    second: PW-Ani-Hose01_30
+  - first:
+      213: -7709169675480087218
+    second: PW-Ani-Hose01_31
+  - first:
+      213: 1861085843345311895
+    second: PW-Ani-Hose01_32
+  - first:
+      213: -499055782396041533
+    second: PW-Ani-Hose01_33
+  - first:
+      213: 1518136157239290386
+    second: PW-Ani-Hose01_34
+  - first:
+      213: 1918409819710489820
+    second: PW-Ani-Hose01_35
+  - first:
+      213: -6486455832923821441
+    second: PW-Ani-Hose01_36
+  - first:
+      213: -5928482243521882454
+    second: PW-Ani-Hose01_37
+  - first:
+      213: 8055100018555390589
+    second: PW-Ani-Hose01_38
+  - first:
+      213: 5874120798672323660
+    second: PW-Ani-Hose01_39
+  - first:
+      213: 6591385586800500680
+    second: PW-Ani-Hose01_40
+  - first:
+      213: -6538296815623904429
+    second: PW-Ani-Hose01_41
+  - first:
+      213: 3863621147234466560
+    second: PW-Ani-Hose01_42
+  - first:
+      213: -3748985972315900548
+    second: PW-Ani-Hose01_43
+  - first:
+      213: 5933901023337381196
+    second: PW-Ani-Hose01_44
+  - first:
+      213: 2232763665641371132
+    second: PW-Ani-Hose01_45
+  - first:
+      213: 3741237810409773763
+    second: PW-Ani-Hose01_46
+  - first:
+      213: 746670999417902166
+    second: PW-Ani-Hose01_47
+  - first:
+      213: 966089068742550266
+    second: PW-Ani-Hose01_48
+  - first:
+      213: 7494901783653573456
+    second: PW-Ani-Hose01_49
+  - first:
+      213: 5699506103441592251
+    second: PW-Ani-Hose01_50
+  - first:
+      213: 8802275797205923914
+    second: PW-Ani-Hose01_51
+  - first:
+      213: 6591145755116266157
+    second: PW-Ani-Hose01_52
+  - first:
+      213: -6232431608743318004
+    second: PW-Ani-Hose01_53
+  - first:
+      213: -3785375663811522714
+    second: PW-Ani-Hose01_54
+  - first:
+      213: 357736977702838632
+    second: PW-Ani-Hose01_55
+  - first:
+      213: 908314311267661456
+    second: PW-Ani-Hose01_56
+  - first:
+      213: -6477745065518252387
+    second: PW-Ani-Hose01_57
+  - first:
+      213: 4503980277275558169
+    second: PW-Ani-Hose01_58
+  - first:
+      213: 8123667041177122959
+    second: PW-Ani-Hose01_59
+  - first:
+      213: 53383060928311536
+    second: PW-Ani-Hose01_60
+  - first:
+      213: -5546978322968166941
+    second: PW-Ani-Hose01_61
+  - first:
+      213: 7460275147088240602
+    second: PW-Ani-Hose01_62
+  - first:
+      213: 2812090876352647532
+    second: PW-Ani-Hose01_63
+  - first:
+      213: -4695672760742674374
+    second: PW-Ani-Hose01_64
+  - first:
+      213: 7816740596095676385
+    second: PW-Ani-Hose01_65
+  - first:
+      213: 6706832337260809565
+    second: PW-Ani-Hose01_66
+  - first:
+      213: -1979159312189288009
+    second: PW-Ani-Hose01_67
+  - first:
+      213: 8074618171713965558
+    second: PW-Ani-Hose01_68
+  - first:
+      213: -9049430768942649562
+    second: PW-Ani-Hose01_69
+  - first:
+      213: 6275565734053563749
+    second: PW-Ani-Hose01_70
+  - first:
+      213: -2283406512206053908
+    second: PW-Ani-Hose01_71
+  - first:
+      213: 223551335623012994
+    second: PW-Ani-Hose01_72
+  - first:
+      213: 710310526196578561
+    second: PW-Ani-Hose01_73
+  - first:
+      213: -8221543953146803385
+    second: PW-Ani-Hose01_74
+  - first:
+      213: 3994350699125374349
+    second: PW-Ani-Hose01_75
+  - first:
+      213: 8663396011596351455
+    second: PW-Ani-Hose01_76
+  - first:
+      213: 8652498823979142401
+    second: PW-Ani-Hose01_77
+  - first:
+      213: -36958842730776761
+    second: PW-Ani-Hose01_78
+  - first:
+      213: -783589510524218275
+    second: PW-Ani-Hose01_79
+  - first:
+      213: 3652763998260602503
+    second: PW-Ani-Hose01_80
+  - first:
+      213: 7860359031510185274
+    second: PW-Ani-Hose01_81
+  - first:
+      213: -8450963169088348677
+    second: PW-Ani-Hose01_82
+  - first:
+      213: -6627591753290265906
+    second: PW-Ani-Hose01_83
+  - first:
+      213: -5056626583056759590
+    second: PW-Ani-Hose01_84
+  - first:
+      213: -8948440131602620895
+    second: PW-Ani-Hose01_85
+  - first:
+      213: 574416714278914947
+    second: PW-Ani-Hose01_86
+  - first:
+      213: 3412122865209174408
+    second: PW-Ani-Hose01_87
+  - first:
+      213: 6773060864467334527
+    second: PW-Ani-Hose01_88
+  - first:
+      213: -8997305320729489240
+    second: PW-Ani-Hose01_89
+  - first:
+      213: 1618985379692225506
+    second: PW-Ani-Hose01_90
+  - first:
+      213: 1919715656818906047
+    second: PW-Ani-Hose01_91
+  - first:
+      213: 7964060280201836004
+    second: PW-Ani-Hose01_92
+  - first:
+      213: 372075751340407595
+    second: PW-Ani-Hose01_93
+  - first:
+      213: -8350047715298465878
+    second: PW-Ani-Hose01_94
+  - first:
+      213: -2891098260132419669
+    second: PW-Ani-Hose01_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ceb8b40370fb4a0800000000000000
+      internalID: -6575529026930349039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2605482dd82f910800000000000000
+      internalID: 1869712730614686433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ebd6ec19e801b40800000000000000
+      internalID: 5408979909356666393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05237e39ca9a38c70800000000000000
+      internalID: 8972201441333031504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496774bf6ff67de0800000000000000
+      internalID: -1335599384234596028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be81c133f8ef1b0800000000000000
+      internalID: -5620897835234301033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8965724c707b769b0800000000000000
+      internalID: -5086896010108119400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1185b120e0a6a1da0800000000000000
+      internalID: -5973345347356108783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_8
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ef4d417d3eb12b0800000000000000
+      internalID: -5612641997680214411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5bb30955be56190800000000000000
+      internalID: -7969705212837644801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500b777ccf9f0aa0800000000000000
+      internalID: -6192555262084448164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_11
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 561
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfab8c917f8ea830800000000000000
+      internalID: 4084359630192095198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 481
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f1735dbcb459210800000000000000
+      internalID: 1339059803040194307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 481
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b457b550bdf2930800000000000000
+      internalID: 4120753000123026197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 481
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b919e42186bc7b0800000000000000
+      internalID: -5202950516659610792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 481
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959272d4085a1320800000000000000
+      internalID: 2529430918455793051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 481
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda44c27472d4270800000000000000
+      internalID: 8236282480169364988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 481
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b44a478bf52bdc0800000000000000
+      internalID: -3624729504244282612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 481
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1989a1925e504440800000000000000
+      internalID: 4918034501812717855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_19
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 481
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b446007009df350800000000000000
+      internalID: 6052151834001558382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 481
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d252d2014cef30e0800000000000000
+      internalID: -2287850321716555055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 481
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ddf61467eba6e0800000000000000
+      internalID: -1825110806900124292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_22
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 481
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ba221c95276200800000000000000
+      internalID: 173148462926968659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_23
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 481
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674339bd223dbf450800000000000000
+      internalID: 6123720265006527606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 401
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea29a072238b266b0800000000000000
+      internalID: -5304474885546143058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 401
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2eaa472ec526b0800000000000000
+      internalID: -5321620716516397420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 401
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac9eae0e61e04e0800000000000000
+      internalID: -2013646828118357354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 401
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed488e6c9fad500800000000000000
+      internalID: 421924147812425230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 401
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a639e60ba78190800000000000000
+      internalID: -7960205770183235750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 401
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac78f8fca74e5290800000000000000
+      internalID: -7899797888124289875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_30
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 401
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f0685c594511e0800000000000000
+      internalID: -2227793779696273833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_31
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 401
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45cbcb6607830590800000000000000
+      internalID: -7709169675480087218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_32
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 401
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980b1dc6b7e3d910800000000000000
+      internalID: 1861085843345311895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_33
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 401
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6ed27f86ff219f0800000000000000
+      internalID: -499055782396041533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_34
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 401
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aace4aac0811510800000000000000
+      internalID: 1518136157239290386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_35
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 401
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4077d119f8f9a10800000000000000
+      internalID: 1918409819710489820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa05369ca7bf5a0800000000000000
+      internalID: -6486455832923821441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 321
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6daa95fccc9bda0800000000000000
+      internalID: -5928482243521882454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a8c340ac679cf60800000000000000
+      internalID: 8055100018555390589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4409947eb1158150800000000000000
+      internalID: 5874120798672323660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_40
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 321
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf9fdeb44e497b50800000000000000
+      internalID: 6591385586800500680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3536ba400bd4345a0800000000000000
+      internalID: -6538296815623904429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_42
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf89b86f65e9530800000000000000
+      internalID: 3863621147234466560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 321
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7530340f1de8fbc0800000000000000
+      internalID: -3748985972315900548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_44
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df954aa83795250800000000000000
+      internalID: 5933901023337381196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_45
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f3f569be5cfe10800000000000000
+      internalID: 2232763665641371132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_46
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 321
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca1cb577fb8be330800000000000000
+      internalID: 3741237810409773763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_47
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 321
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d3646155bc5a00800000000000000
+      internalID: 746670999417902166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2a9c3b3ec386d00800000000000000
+      internalID: 966089068742550266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ec19667d330860800000000000000
+      internalID: 7494901783653573456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8ec29a96b81f40800000000000000
+      internalID: 5699506103441592251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a483a7b7337f72a70800000000000000
+      internalID: 8802275797205923914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_52
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da267849424787b50800000000000000
+      internalID: 6591145755116266157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e20f10974f189a0800000000000000
+      internalID: -6232431608743318004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_54
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f0b19b3e4a77bc0800000000000000
+      internalID: -3785375663811522714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_55
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861eff6c2efe6f400800000000000000
+      internalID: 357736977702838632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_56
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096338bbd0bfa9c00800000000000000
+      internalID: 908314311267661456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_57
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ebe38fe2d6a16a0800000000000000
+      internalID: -6477745065518252387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_58
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110066f23a518e30800000000000000
+      internalID: 4503980277275558169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_59
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 241
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8839e602201db070800000000000000
+      internalID: 8123667041177122959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 161
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b7af6c97adb000800000000000000
+      internalID: 53383060928311536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 161
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb0baba9c2503b0800000000000000
+      internalID: -5546978322968166941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 161
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf9ed458b8388760800000000000000
+      internalID: 7460275147088240602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_63
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 161
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61dd11c0cd860720800000000000000
+      internalID: 2812090876352647532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_64
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 161
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30847ab08e95deb0800000000000000
+      internalID: -4695672760742674374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 161
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef68a34824aa7c60800000000000000
+      internalID: 7816740596095676385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_66
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 161
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8886f974731d50800000000000000
+      internalID: 6706832337260809565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_67
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 161
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11d03771d9884e0800000000000000
+      internalID: -1979159312189288009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_68
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 161
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdcced227ece0070800000000000000
+      internalID: 8074618171713965558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_69
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 161
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62feead59a6f96280800000000000000
+      internalID: -9049430768942649562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_70
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 161
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d40e629c9471750800000000000000
+      internalID: 6275565734053563749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_71
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 161
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedf42a00e5bf40e0800000000000000
+      internalID: -2283406512206053908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282bfdc51c63a1300800000000000000
+      internalID: 223551335623012994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 81
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109fa2209a78bd900800000000000000
+      internalID: 710310526196578561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 81
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8c6f855537ed80800000000000000
+      internalID: -8221543953146803385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_75
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 81
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d73b14cc8ce6730800000000000000
+      internalID: 3994350699125374349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_76
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 81
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78cbb95c09a3870800000000000000
+      internalID: 8663396011596351455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_77
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 81
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d03c666d9d31870800000000000000
+      internalID: 8652498823979142401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_78
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 81
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f8bbd022bc7ff0800000000000000
+      internalID: -36958842730776761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_79
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 81
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545b77ed712025f0800000000000000
+      internalID: -783589510524218275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_80
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 81
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a8a4d08931b230800000000000000
+      internalID: 3652763998260602503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_81
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 81
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35b238a4ea951d60800000000000000
+      internalID: 7860359031510185274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_82
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 81
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd5498d5c528ba80800000000000000
+      internalID: -8450963169088348677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_83
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 81
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca43d43a601604a0800000000000000
+      internalID: -6627591753290265906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ca13f9e043d9b0800000000000000
+      internalID: -5056626583056759590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed9f57c11c0d380800000000000000
+      internalID: -8948440131602620895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b44af45fcb8f700800000000000000
+      internalID: 574416714278914947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e7ceeaab4a5f20800000000000000
+      internalID: 3412122865209174408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_88
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75fca498febefd50800000000000000
+      internalID: 6773060864467334527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_89
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0df260b76232380800000000000000
+      internalID: -8997305320729489240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_90
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32b1500aac77610800000000000000
+      internalID: 1618985379692225506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_91
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb35272083334aa10800000000000000
+      internalID: 1919715656818906047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_92
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e57a3321a6068e60800000000000000
+      internalID: 7964060280201836004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_93
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b7e2cace0e92500800000000000000
+      internalID: 372075751340407595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_94
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a218e7dbae1c80800000000000000
+      internalID: -8350047715298465878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PW-Ani-Hose01_95
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7ae0a3371c0e7d0800000000000000
+      internalID: -2891098260132419669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
